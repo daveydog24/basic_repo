@@ -1,0 +1,9 @@
+ I created a new repository on Git hub
+
+Then i created a repository on my local computer with the same nameand git init it 
+
+created some files and edited them and added and commited them with a message. 
+
+i pushed this repository to the master branch on github through the terminal and then edited and made some more files and pushed those again after adding and commiting them with their own message. 
+
+then i double checked everything was working and created this file to submit online. sorry it is late i didnt realize there was deadlines. i though everything was due on sundays. i will be all caught up soon!!!!
